@@ -3,3 +3,4 @@
 谁知盘中餐；
 粒粒皆辛苦；
 这是测试git diff；
+测试git status
