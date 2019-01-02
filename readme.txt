@@ -4,3 +4,4 @@
 粒粒皆辛苦；
 这是测试git diff；
 测试git status
+分支策略说明
